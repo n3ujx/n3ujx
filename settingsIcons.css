@@ -12,7 +12,7 @@
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, .side-8zPYf6 .item-PXvHYJ {padding-left: 40px;}
 div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
 div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
-#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(x) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before{background:url(https://n3ujx.github.io/discordtemplate/icons/account.png) center}
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before{background:url(https://n3ujx.github.io/discordtemplate/icons/privacy.png) center}
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://n3ujx.github.io/discordtemplate/icons/apps.png) center}
 #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://n3ujx.github.io/discordtemplate/icons/connections.png) center}
