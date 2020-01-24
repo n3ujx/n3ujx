@@ -1596,12 +1596,9 @@ svg[name=Nitro] g path {
 
 
 .wrapper-1BJsBx[aria-label=Home] {
-	transition: all .3s ease;
-	background-image: linear-gradient(to left,var(--primaryGradient1),var(--primaryGradient2));
-	-webkit-mask-image: url(https://n3ujx.github.io/discordtemplate/icons/logo.png);
-	-webkit-mask-position: center;
-	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-size: contain
+  transition: all .3s ease !important;
+  background-image: linear-gradient(to left,var(--primaryGradient1),var(--primaryGradient2)) !important;
+  -webkit-mask-image: url(https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png) !important;
 }
 
 .wrapper-1BJsBx[aria-label=Home] .childWrapper-anI2G9 {
